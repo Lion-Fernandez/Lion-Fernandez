@@ -1,4 +1,4 @@
-<img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/portadaLinkedIn.jpg"/>
+<img src="https://github.com/Lion-Fernandez/Lion-Fernandez/blob/master/img/portadaLinkedIn.jpg"/>
 
 ---
 
